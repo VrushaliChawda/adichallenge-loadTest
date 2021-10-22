@@ -7,6 +7,7 @@ It contains basic simulation from gatling quick start bundle.
 [gatlingdoc]: https://gatling.io/docs/current/advanced_tutorial/
 
 ### Run
+Navigate to adichallenge folder
 
 All tests:
 ```
